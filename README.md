@@ -1,5 +1,5 @@
 # Case_Study_Bellabeat
-This repository contains the capstone project I developed to conclude the Google Data Analytics Professional Certificate. The notebook was developed on [Kaggle](https://www.kaggle.com/code/affonsocampos/case-study-bellabeat).
+This repository contains the capstone [project](case-study-bellabeat.ipynb) I developed to conclude the Google Data Analytics Professional Certificate. The notebook was developed on [Kaggle](https://www.kaggle.com/code/affonsocampos/case-study-bellabeat).
 
 ## Key findings and Recommendations
 Here I present the main insights of this analysis with recommendations to address each of them. 
