@@ -19,6 +19,9 @@ Here I present the main insights of this analysis with recommendations to addres
 * Finally, we need to **keep track of users’ engagement with a healthy lifestyle. We want to know what drives them to pursue their goals and how the initial motivation evolves over the weeks.** That way, we can trigger mechanisms to keep them motivated whenever there is a decrease on a daily basis in the number of steps taken or in the level of activity.
   * **Recommendation 5:** to deliver this, we can offer to users a journal where they would register their daily or weekly activities altogether with a point system.
 
+## Technologies Used
+- R programming language 
+- tidyverse
 
 ## Author:
 * Affonso Ciekalski Soares Campos
